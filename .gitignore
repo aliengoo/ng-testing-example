@@ -1,0 +1,6 @@
+app/build
+bower_components
+node_modules
+public/js/
+public/fonts
+public/styles
